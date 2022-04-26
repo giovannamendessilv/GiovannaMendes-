@@ -1,0 +1,24 @@
+*{
+    
+        margin: 0;
+        /* margem */
+        padding: 0;
+        /* preenchimento */
+        box-sizing: border-box;
+}
+
+
+body{ 
+    background-image: url("https://www.filantropia.ong/imagens/conteudo/KZZR7USKJL7UZUFFFPAW/vamos-mudar-o-mundo5200.png");    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vh;
+}
+
+h3{
+    color: white;
+}
+
+
